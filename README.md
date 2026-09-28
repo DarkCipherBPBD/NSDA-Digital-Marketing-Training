@@ -2,13 +2,13 @@
 
 Digital marketing is an important skill for building a career in the modern digital economy.
 
-This repository provides useful information about digital marketing, SEO, social media marketing, online advertising, freelancing, and skills development.
+This repository provides educational resources about digital marketing, skills development, training, SEO, freelancing, and online marketing.
 
 ## NSDA Resources
 
-- [NSDA Training]([YOUR_NSDA_URL_1](https://nsda.gov.bd/))
-- [NSDA Courses]([YOUR_NSDA_URL_2](https://nsda.gov.bd/))
-- [National Skills Development Authority]([YOUR_NSDA_URL_3](https://nsda.gov.bd/))
+- [NSDA Training](https://nsda.gov.bd/)
+- [NSDA Courses](https://nsda.gov.bd/)
+- [National Skills Development Authority](https://nsda.gov.bd/)
 
 ## Digital Marketing Skills
 
@@ -22,8 +22,16 @@ This repository provides useful information about digital marketing, SEO, social
 - Digital Marketing Analytics
 - Freelancing Basics
 
-## About
+## About NSDA
 
-Learning digital marketing step by step can help beginners develop practical skills for online marketing and freelancing.
+The National Skills Development Authority (NSDA) is related to skills development and training in Bangladesh.
+
+For official information, visit:
+
+[National Skills Development Authority](https://nsda.gov.bd/)
+
+## Learning Digital Marketing
+
+Learning digital marketing step by step can help beginners develop practical skills for online marketing, freelancing, and professional development.
 
 #NSDA #DigitalMarketing #SEO #Freelancing #SkillsDevelopment
